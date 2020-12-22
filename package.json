@@ -2,12 +2,14 @@
   "name": "vapor-bot",
   "version": "1.0.0",
   "description": "a inline bot to create vaporwave-like strings",
+  "node" : "12.x",
+  "npm" : "6.x"
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "nomboru",
+  "author": "waiolos",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
